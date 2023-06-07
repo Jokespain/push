@@ -13,5 +13,6 @@ public class Main {
             System.out.println("Значення y: " + y);
             y++;
         } while (y <= 5);
+
     }
 }
